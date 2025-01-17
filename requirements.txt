@@ -1,0 +1,4 @@
+pandas~=2.2.2
+openpyxl
+tkinter
+Pillow~=10.1.0
